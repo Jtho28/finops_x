@@ -22,3 +22,41 @@
 ### Showback/Chargeback
 
 #### Shared Responsibility Model
+
+## Chargeback Models
+### Model 1: Even Split
+- Shared Cost / Count of Consumers = Consumer Charge
+### Model 2: Fixed Percentage
+- Shared Cost * Assigned Percentage = Consumer Charge
+### Model 3: Metered Usage
+- Shared Cost * Consumer % of Metered Usage = Consumer Charge
+#### Technical Implementation
+#### Showback dashboard
+
+### Model 4: Direct Cost + Proportion of Shared
+- Direct Cost + Proportion of Shared Cost = Consumer Charge
+
+#### Technical Implementation/Data Sample
+#### Showback Dashboard
+
+
+## The Results
+### Product
+- Improved throughput for team due to shared platforms
+- Better accountability
+### Leadership
+- Incentivized to own shared platforms
+- Speed to market with shared platforms
+### Engineering
+- Ease of cloud adoption
+- Reduced operation suppoirt due to shared platforms
+### Finops Practitioner
+- Limited complex chargebacks
+- Optionality on allocation
+- Reduces duplicate effort
+### Finance
+- Better align funding
+
+## Measures of Success
+
+## Learnings & Challenges
