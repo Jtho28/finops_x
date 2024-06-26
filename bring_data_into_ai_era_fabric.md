@@ -1,22 +1,20 @@
-- FinOps requires a lot of sources in Azure (any cloud)
-
-## Leveraging FinOps Data
+## Leveraging FinOps Data with microsoft
 ### Challenges
 #### Analyze data at scale
 - How can I manage growing data volume
 - How can I simplify data analysis
 - HOw can I integrate multiple data sources
 #### Derive insights
-- How can I make the 
 
 # Fabric
 - `Note From Jackson`
     - They don't specify, but Fabric's technology for allowing real-time access to data sources without actually copying data is called `data virtualization`. It could be interesting to try our hand at this technique ourselves.
 - Office for your orgs data
 ## Capabilities
-
+![alt text](<img/2024-06-21 at 13.56.59.jpeg>)
 ## Intelligent data foundation
-
+![alt text](<img/2024-06-21 at 13.56.58 (2).jpeg>)
+![alt text](<img/2024-06-21 at 13.56.58 (1).jpeg>)
 ## Demo / Case Study / How-To
 1. Set up exports in Focus (naturally) and frequency
 2. Configure Dataset in one place
@@ -48,3 +46,4 @@
 
 ## Compute engines for big-data analysis
 - `Spark job (wtf is spark)`
+    - It's this - https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/microsoft-spark-utilities?pivots=programming-language-python
